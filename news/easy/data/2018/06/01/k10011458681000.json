@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011458681000",
+  "news_prearranged_time": "2018-06-01 11:30:00",
+  "title": "東京オリンピック　子どものために安いチケットをつくる",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピック　<ruby>子<rt>こ</rt></ruby>どものために<ruby>安<rt>やす</rt></ruby>いチケットをつくる",
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0001'>オリンピック</a>と<a href='javascript:void(0)' class='dicWin' id='id-0002'>パラリンピック</a>があります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180530/../20180530/K10011458681_1805302018_1805302022_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011458681000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011458681000/k10011458681000.html"
+}

@@ -1,0 +1,88 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>家畜</rb><rt>かちく</rt></ruby>として<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>飼</rb><rt>か</rt></ruby>われる<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>力</rb><rt>ちから</rt></ruby>が<ruby><rb>強</rb><rt>つよ</rt></ruby>く、<ruby><rb>走</rb><rt>はし</rt></ruby>るのがはやい。<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>の<ruby><rb>運搬</rb><rt>うんぱん</rt></ruby>や<ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>、<ruby><rb>競馬</rb><rt>けいば</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "馬"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>騎手</rb><rt>きしゅ</rt></ruby>が<ruby><rb>馬</rb><rt>うま</rt></ruby>に<ruby><rb>乗</rb><rt>の</rt></ruby>って、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競走</rb><rt>きょうそう</rt></ruby>。",
+          "hyouki": [
+            "競馬"
+          ]
+        }
+      ],
+      "0003": [
+      {
+          "def": "<ruby><rb>競走</rb><rt>きょうそう</rt></ruby>・<ruby><rb>競泳</rb><rt>きょうえい</rt></ruby>などの<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。",
+          "hyouki": [
+            "レース"
+          ]
+        },{
+          "def": "<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>。",
+          "hyouki": [
+            "レース"
+          ]
+        }
+
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>などで、<ruby><rb>一位</rb><rt>いちい</rt></ruby>で<ruby><rb>勝</rb><rt>か</rt></ruby>つこと。",
+          "hyouki": [
+            "優勝"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>もって、こうだろうと<ruby><rb>考</rb><rt>かんが</rt></ruby>えること。または、その<ruby><rb>考</rb><rt>かんが</rt></ruby>え。",
+          "hyouki": [
+            "予想"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ばらばらだったものを<ruby><rb>一</rb><rt>ひと</rt></ruby>つにする。",
+          "hyouki": [
+            "まとめる"
+          ]
+        },
+        {
+          "def": "うまく<ruby><rb>解決</rb><rt>かいけつ</rt></ruby>する。",
+          "hyouki": [
+            "まとめる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つのものとして、きちんと<ruby><rb>仕上</rb><rt>しあ</rt></ruby>げる。",
+          "hyouki": [
+            "まとめる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>勝</rb><rt>か</rt></ruby>ったほうがもらう<ruby><rb>約束</rb><rt>やくそく</rt></ruby>で、お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。かけごとをする。",
+          "hyouki": [
+            "賭ける"
+          ]
+        }
+      ]
+    }
+  }
+}
