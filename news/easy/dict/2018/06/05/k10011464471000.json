@@ -1,0 +1,148 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "すもうで、<ruby><rb>横綱</rb><rt>よこづな</rt></ruby>の<ruby><rb>次</rb><rt>つぎ</rt></ruby>の<ruby><rb>位</rb><rt>くらい</rt></ruby>。",
+          "hyouki": [
+            "大関"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>生</rb><rt>う</rt></ruby>まれ<ruby><rb>育</rb><rt>そだ</rt></ruby>った<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>故郷</rb><rt>こきょう</rt></ruby>。",
+          "hyouki": [
+            "ふるさと"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>が<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>専門</rb><rt>せんもん</rt></ruby>の<ruby><rb>力士</rb><rt>りきし</rt></ruby>による<ruby><rb>相撲</rb><rt>すもう</rt></ruby>。",
+          "hyouki": [
+            "大相撲"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相撲</rb><rt>すもう</rt></ruby>で、なかなか<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けの<ruby><rb>決</rb><rt>き</rt></ruby>まらない<ruby><rb>力</rb><rt>ちから</rt></ruby>の<ruby><rb>入</rb><rt>はい</rt></ruby>った<ruby><rb>取組</rb><rt>とりくみ</rt></ruby>。",
+          "hyouki": [
+            "大相撲"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "スポーツや<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>演劇</rb><rt>えんげき</rt></ruby>などが、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>に<ruby><rb>好</rb><rt>す</rt></ruby>きな<ruby><rb>人</rb><rt>ひと</rt></ruby>。または、ある<ruby><rb>俳優</rb><rt>はいゆう</rt></ruby>や、<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>などを<ruby><rb>熱心</rb><rt>ねっしん</rt></ruby>に<ruby><rb>応援</rb><rt>おうえん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。フアン。",
+          "hyouki": [
+            "ファン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>扇風機</rb><rt>せんぷうき</rt></ruby>。<ruby><rb>送風機</rb><rt>そうふうき</rt></ruby>。<ruby><rb>換気扇</rb><rt>かんきせん</rt></ruby>。",
+          "hyouki": [
+            "ファン"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>いこと。",
+          "hyouki": [
+            "最高"
+          ]
+        },
+        {
+          "def": "いちばんよいこと。",
+          "hyouki": [
+            "最高"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>腕</rb><rt>うで</rt></ruby>でかかえて<ruby><rb>持</rb><rt>も</rt></ruby>つ。",
+          "hyouki": [
+            "抱く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>持</rb><rt>も</rt></ruby>つ。",
+          "hyouki": [
+            "抱く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>温</rb><rt>あたた</rt></ruby>めてひなをかえす。",
+          "hyouki": [
+            "抱く"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。",
+          "hyouki": [
+            "幸せ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>母</rb><rt>はは</rt></ruby>。",
+          "hyouki": [
+            "母親"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "めざましく<ruby><rb>働</rb><rt>はたら</rt></ruby>くこと。",
+          "hyouki": [
+            "活躍"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "（<ruby><rb>神</rb><rt>かみ</rt></ruby>や<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>やほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>に）こうしてほしいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。たのむ。<ruby><rb>望</rb><rt>のぞ</rt></ruby>む。",
+          "hyouki": [
+            "願う"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>して<ruby><rb>外交</rb><rt>がいこう</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>外交官</rb><rt>がいこうかん</rt></ruby>のいちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役</rb><rt>やく</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大使"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>仲</rb><rt>なか</rt></ruby>のよいつき<ruby><rb>合</rb><rt>あ</rt></ruby>い。",
+          "hyouki": [
+            "友好"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "よい<ruby><rb>行</rb><rt>おこな</rt></ruby>いや、りっぱな<ruby><rb>成績</rb><rt>せいせき</rt></ruby>をたたえて、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "表彰"
+          ]
+        }
+      ]
+    }
+  }
+}
