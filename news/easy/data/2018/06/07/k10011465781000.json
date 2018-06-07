@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011465781000",
+  "news_prearranged_time": "2018-06-07 11:30:00",
+  "title": "ピカソ　同じキャンバスに３回絵をかいた",
+  "title_with_ruby": "ピカソ　<ruby>同<rt>おな</rt></ruby>じキャンバスに３<ruby>回<rt>かい</rt></ruby><ruby>絵<rt>え</rt></ruby>をかいた",
+  "outline_with_ruby": "<p>スペインの<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>画家<rt>がか</rt></ruby></a>のピカソが２０<ruby>歳<rt>さい</rt></ruby>ごろかいた「<ruby>海辺<rt>うみべ</rt></ruby>の<ruby>母子像<rt>ぼしぞう</rt></ruby>」という<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>絵<rt>え</rt></ruby>は、<ruby>神奈川県<rt>かながわけん</rt></ruby>にあるポーラ<ruby>美術館<rt>びじゅつかん</rt></ruby>が<ruby>持<rt>も</rt></ruby>っています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180605/../20180605/K10011465781_1806051818_1806051839_01_03.jpg",
+  "news_web_movie_uri": "k10011465781_201806051817_201806051831.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011465781000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011465781000/k10011465781000.html"
+}

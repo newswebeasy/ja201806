@@ -1,0 +1,70 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>形</rb><rt>かたち</rt></ruby>はアヒルに<ruby><rb>似</rb><rt>に</rt></ruby>ているが、やや<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>水鳥</rb><rt>みずとり</rt></ruby>。マガモ・コガモ・カルガモなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。ふつう<ruby><rb>冬</rb><rt>ふゆ</rt></ruby>にシベリアなどから<ruby><rb>来</rb><rt>き</rt></ruby>て、<ruby><rb>春</rb><rt>はる</rt></ruby>になると<ruby><rb>帰</rb><rt>かえ</rt></ruby>っていくわたり<ruby><rb>鳥</rb><rt>どり</rt></ruby>。",
+          "hyouki": [
+            "鴨"
+          ]
+        },
+        {
+          "def": "<ruby><rb>利用</rb><rt>りよう</rt></ruby>しやすい<ruby><rb>相手</rb><rt>あいて</rt></ruby>。",
+          "hyouki": [
+            "鴨"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>父</rb><rt>ちち</rt></ruby>や<ruby><rb>母</rb><rt>はは</rt></ruby>。<ruby><rb>両親</rb><rt>りょうしん</rt></ruby>。",
+          "hyouki": [
+            "親"
+          ]
+        },
+        {
+          "def": "<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうんだもの。",
+          "hyouki": [
+            "親"
+          ]
+        },
+        {
+          "def": "トランプやかるたなどの<ruby><rb>遊</rb><rt>あそ</rt></ruby>びで、カードを<ruby><rb>配</rb><rt>くば</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "親"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。<ruby><rb>大</rb><rt>おお</rt></ruby>きいもの。",
+          "hyouki": [
+            "親"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>鳥</rb><rt>とり</rt></ruby>やウサギを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "羽"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>糸</rb><rt>いと</rt></ruby>や<ruby><rb>針金</rb><rt>はりがね</rt></ruby>などで、<ruby><rb>目</rb><rt>め</rt></ruby>をあらく<ruby><rb>編</rb><rt>あ</rt></ruby>んだもの。<ruby><rb>虫</rb><rt>むし</rt></ruby>や<ruby><rb>魚</rb><rt>さかな</rt></ruby>・けものなどをとるのに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "網"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "その<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもの<ruby><rb>子</rb><rt>こ</rt></ruby>ども。",
+          "hyouki": [
+            "孫"
+          ]
+        }
+      ]
+    }
+  }
+}

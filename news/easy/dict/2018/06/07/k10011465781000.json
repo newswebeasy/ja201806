@@ -1,0 +1,50 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>油絵</rb><rt>あぶらえ</rt></ruby>をかく<ruby><rb>布</rb><rt>ぬの</rt></ruby>。カンバス。",
+          "hyouki": [
+            "キャンバス"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>をかくことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>絵</rb><rt>え</rt></ruby>かき。",
+          "hyouki": [
+            "画家"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>画像</rb><rt>がぞう</rt></ruby>や<ruby><rb>文書</rb><rt>ぶんしょ</rt></ruby>などを<ruby><rb>読</rb><rt>よ</rt></ruby>み<ruby><rb>取</rb><rt>と</rt></ruby>って、コンピューターに<ruby><rb>入力</rb><rt>にゅうりょく</rt></ruby>する<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "スキャナー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>文字</rb><rt>もじ</rt></ruby>やバーコードを<ruby><rb>読</rb><rt>よ</rt></ruby>み<ruby><rb>取</rb><rt>と</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "スキャナー"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くこと。<ruby><rb>署名</rb><rt>しょめい</rt></ruby>。",
+          "hyouki": [
+            "サイン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>合図</rb><rt>あいず</rt></ruby>。しるし。",
+          "hyouki": [
+            "サイン"
+          ]
+        }
+      ]
+    }
+  }
+}
