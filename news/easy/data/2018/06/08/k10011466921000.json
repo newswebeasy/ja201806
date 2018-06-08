@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011466921000",
+  "news_prearranged_time": "2018-06-08 11:30:00",
+  "title": "東京オリンピック　ボランティアをしたい人は１５％",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピック　ボランティアをしたい<ruby>人<rt>ひと</rt></ruby>は１５％",
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0001'>オリンピック</a>と<a href='javascript:void(0)' class='dicWin' id='id-0002'>パラリンピック</a>があります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180606/../20180606/K10011466921_1806061846_1806061853_01_02.jpg",
+  "news_web_movie_uri": "k10011466921_201806061929_201806061930.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011466921000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011466921000/k10011466921000.html"
+}

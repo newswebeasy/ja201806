@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "よその<ruby><rb>土地</rb><rt>とち</rt></ruby>に<ruby><rb>移</rb><rt>うつ</rt></ruby>り、そこで<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>すること。",
+          "hyouki": [
+            "移住"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "その<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもの<ruby><rb>子</rb><rt>こ</rt></ruby>ども。",
+          "hyouki": [
+            "孫"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、<ruby><rb>腰</rb><rt>こし</rt></ruby>や<ruby><rb>手</rb><rt>て</rt></ruby>をくねらせる、ハワイのおどり。",
+          "hyouki": [
+            "フラダンス"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "知事"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>象徴</rb><rt>しょうちょう</rt></ruby>としてあおがれている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "天皇"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>や<ruby><rb>皇后</rb><rt>こうごう</rt></ruby>などを<ruby><rb>敬</rb><rt>うやま</rt></ruby>って<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶことば。",
+          "hyouki": [
+            "陛下"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>が<ruby><rb>苦</rb><rt>くる</rt></ruby>しく<ruby><rb>感</rb><rt>かん</rt></ruby>じる。つらいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "苦しむ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困</rb><rt>こま</rt></ruby>る。<ruby><rb>苦労</rb><rt>くろう</rt></ruby>する。",
+          "hyouki": [
+            "苦しむ"
+          ]
+        }
+      ]
+    }
+  }
+}
