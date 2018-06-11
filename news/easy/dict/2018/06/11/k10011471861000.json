@@ -1,0 +1,44 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>先頭</rb><rt>せんとう</rt></ruby>。<ruby><rb>真</rb><rt>ま</rt></ruby>っ<ruby><rb>先</rb><rt>さき</rt></ruby>。<ruby><rb>一番</rb><rt>いちばん</rt></ruby>。",
+          "hyouki": [
+            "トップ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ほんものの<ruby><rb>刀</rb><rt>かたな</rt></ruby>。",
+          "hyouki": [
+            "真剣"
+          ]
+        },
+        {
+          "def": "ものごとに<ruby><rb>本気</rb><rt>ほんき</rt></ruby>で<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>組</rb><rt>く</rt></ruby>んでいるようす。",
+          "hyouki": [
+            "真剣"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。",
+          "hyouki": [
+            "核兵器"
+          ]
+        }
+      ]
+    }
+  }
+}
