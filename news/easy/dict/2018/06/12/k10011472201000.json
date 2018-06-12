@@ -1,0 +1,78 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。",
+          "hyouki": [
+            "パンダ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。",
+          "hyouki": [
+            "パンダ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "記者"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>二本</rb><rt>にほん</rt></ruby>の<ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>柱</rb><rt>はしら</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>につって、ねどこにするもの。<ruby><rb>丈夫</rb><rt>じょうぶ</rt></ruby>なひもで<ruby><rb>編</rb><rt>あ</rt></ruby>んで<ruby><rb>作</rb><rt>つく</rt></ruby>る。つりどこ。",
+          "hyouki": [
+            "ハンモック"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>空</rb><rt>から</rt></ruby>の<ruby><rb>茎</rb><rt>くき</rt></ruby>に、<ruby><rb>節</rb><rt>ふし</rt></ruby>のある<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>や、<ruby><rb>細工物</rb><rt>さいくもの</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>芽</rb><rt>め</rt></ruby>を「たけのこ」という。",
+          "hyouki": [
+            "竹"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "記念"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>を、<ruby><rb>四角</rb><rt>しかく</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さく<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。<ruby><rb>記入</rb><rt>きにゅう</rt></ruby>したり、<ruby><rb>整理</rb><rt>せいり</rt></ruby>するときなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "「クレジットカード」「キャッシュカード」などの<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "トランプ（の<ruby><rb>札</rb><rt>ふだ</rt></ruby>）。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などの、<ruby><rb>試合</rb><rt>しあい</rt></ruby>の<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "カード"
+          ]
+        }
+      ]
+    }
+  }
+}

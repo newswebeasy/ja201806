@@ -1,0 +1,128 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地下</rb><rt>ちか</rt></ruby>のマグマが、<ruby><rb>地表</rb><rt>ちひょう</rt></ruby>にふき<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>山</rb><rt>やま</rt></ruby>となっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "火山"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "噴火"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ダイズ・アズキ・ソラマメなど、さやの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>種</rb><rt>たね</rt></ruby>ができる<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。また、その<ruby><rb>種</rb><rt>たね</rt></ruby>。",
+          "hyouki": [
+            "豆"
+          ]
+        },
+        {
+          "def": "「<ruby><rb>小</rb><rt>ちい</rt></ruby>さい」や「<ruby><rb>子</rb><rt>こ</rt></ruby>ども」という<ruby><rb>意味</rb><rt>いみ</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。",
+          "hyouki": [
+            "豆"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>野菜</rb><rt>やさい</rt></ruby>や<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "畑"
+          ]
+        },
+        {
+          "def": "<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。",
+          "hyouki": [
+            "畑"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>地下</rb><rt>ちか</rt></ruby>のとけた<ruby><rb>岩</rb><rt>いわ</rt></ruby>が、<ruby><rb>火山</rb><rt>かざん</rt></ruby>の<ruby><rb>噴火</rb><rt>ふんか</rt></ruby>で<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>に<ruby><rb>流</rb><rt>なが</rt></ruby>れ<ruby><rb>出</rb><rt>で</rt></ruby>たもの。また、それが<ruby><rb>冷</rb><rt>ひ</rt></ruby>えて<ruby><rb>固</rb><rt>かた</rt></ruby>まった<ruby><rb>岩</rb><rt>いわ</rt></ruby>。",
+          "hyouki": [
+            "溶岩"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "とりやめになる。",
+          "hyouki": [
+            "流れる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。",
+          "hyouki": [
+            "行方不明"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らしを<ruby><rb>立</rb><rt>た</rt></ruby>てている<ruby><rb>家</rb><rt>いえ</rt></ruby>。また、その<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "農家"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>燃</rb><rt>も</rt></ruby>えたあとに<ruby><rb>残</rb><rt>のこ</rt></ruby>る<ruby><rb>粉</rb><rt>こな</rt></ruby>のようなもの。",
+          "hyouki": [
+            "灰"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>や<ruby><rb>天災</rb><rt>てんさい</rt></ruby>のために、<ruby><rb>家</rb><rt>いえ</rt></ruby>を<ruby><rb>失</rb><rt>うしな</rt></ruby>い、よその<ruby><rb>土地</rb><rt>とち</rt></ruby>へにげてきた<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。",
+          "hyouki": [
+            "難民"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>働</rb><rt>はたら</rt></ruby>くために、<ruby><rb>外国</rb><rt>がいこく</rt></ruby>に<ruby><rb>移</rb><rt>うつ</rt></ruby>り<ruby><rb>住</rb><rt>す</rt></ruby>むこと。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "移民"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>生</rb><rt>い</rt></ruby>きているもとになる<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>生命</rb><rt>せいめい</rt></ruby>。",
+          "hyouki": [
+            "命"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>きている<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "命"
+          ]
+        },
+        {
+          "def": "いちばん<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>なもの。",
+          "hyouki": [
+            "命"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>西</rb><rt>にし</rt></ruby>アジアからエジプトにかけての<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。イラン・イラク・アフガニスタン・トルコなどの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>。<ruby><rb>中近東</rb><rt>ちゅうきんとう</rt></ruby>。",
+          "hyouki": [
+            "中東"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ]
+    }
+  }
+}

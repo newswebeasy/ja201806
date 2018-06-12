@@ -1,0 +1,54 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>くはやること。はやり。",
+          "hyouki": [
+            "流行"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "のどや<ruby><rb>気管</rb><rt>きかん</rt></ruby>がしげきされて、<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>息</rb><rt>いき</rt></ruby>。",
+          "hyouki": [
+            "咳"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>などにできる、<ruby><rb>小</rb><rt>ちい</rt></ruby>さなふきでもの。ほっしん。",
+          "hyouki": [
+            "発疹"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。",
+          "hyouki": [
+            "ウイルス"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>１１</rb><rt>じゅういち</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby>から<ruby><rb>２０日</rb><rt>はつか</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "中旬"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>予約</rb><rt>よやく</rt></ruby>などを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>消</rb><rt>け</rt></ruby>すこと。",
+          "hyouki": [
+            "キャンセル"
+          ]
+        }
+      ]
+    }
+  }
+}
