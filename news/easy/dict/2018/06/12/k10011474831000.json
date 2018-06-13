@@ -1,0 +1,166 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>や<ruby><rb>親</rb><rt>した</rt></ruby>しみ、<ruby><rb>喜</rb><rt>よろこ</rt></ruby>びを<ruby><rb>示</rb><rt>しめ</rt></ruby>すために<ruby><rb>手</rb><rt>て</rt></ruby>をにぎり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "握手"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仲直</rb><rt>なかなお</rt></ruby>りすること。",
+          "hyouki": [
+            "握手"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ちがうことばを<ruby><rb>話</rb><rt>はな</rt></ruby>す<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>って、<ruby><rb>両方</rb><rt>りょうほう</rt></ruby>のことばを<ruby><rb>翻訳</rb><rt>ほんやく</rt></ruby>して<ruby><rb>伝</rb><rt>つた</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "通訳"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>相談</rb><rt>そうだん</rt></ruby>。",
+          "hyouki": [
+            "話し合い"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ものごとが<ruby><rb>思</rb><rt>おも</rt></ruby>いどおりにうまくいくこと。",
+          "hyouki": [
+            "成功"
+          ]
+        },
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>地位</rb><rt>ちい</rt></ruby>や<ruby><rb>財産</rb><rt>ざいさん</rt></ruby>を<ruby><rb>得</rb><rt>え</rt></ruby>ること。",
+          "hyouki": [
+            "成功"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>って、その<ruby><rb>上</rb><rt>うえ</rt></ruby>をこえる。",
+          "hyouki": [
+            "乗り越える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>上</rb><rt>うえ</rt></ruby>にいる<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>追</rb><rt>お</rt></ruby>いこす。",
+          "hyouki": [
+            "乗り越える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>苦</rb><rt>くる</rt></ruby>しいところを<ruby><rb>切</rb><rt>き</rt></ruby>りぬける。<ruby><rb>乗</rb><rt>の</rt></ruby>りきる。",
+          "hyouki": [
+            "乗り越える"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>をつくり、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>で、もっとも<ruby><rb>責任</rb><rt>せきにん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>総理大臣</rb><rt>そうりだいじん</rt></ruby>と<ruby><rb>国務大臣</rb><rt>こくむだいじん</rt></ruby>とがある。",
+          "hyouki": [
+            "大臣"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。",
+          "hyouki": [
+            "話し合う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "話し合う"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>書</rb><rt>か</rt></ruby>きつけ。<ruby><rb>文書</rb><rt>ぶんしょ</rt></ruby>。",
+          "hyouki": [
+            "書類"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くこと。<ruby><rb>署名</rb><rt>しょめい</rt></ruby>。",
+          "hyouki": [
+            "サイン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>合図</rb><rt>あいず</rt></ruby>。しるし。",
+          "hyouki": [
+            "サイン"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>て。",
+          "hyouki": [
+            "仕組み"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>て。",
+          "hyouki": [
+            "仕組み"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。",
+          "hyouki": [
+            "核兵器"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。<ruby><rb>動作</rb><rt>どうさ</rt></ruby>。",
+          "hyouki": [
+            "行動"
+          ]
+        }
+      ]
+    }
+  }
+}

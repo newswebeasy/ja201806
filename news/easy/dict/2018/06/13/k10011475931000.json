@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>屋根</rb><rt>やね</rt></ruby>のすぐ<ruby><rb>下</rb><rt>した</rt></ruby>と、<ruby><rb>天井</rb><rt>てんじょう</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "屋根裏"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。",
+          "hyouki": [
+            "競り売り"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "１００<ruby><rb>年</rb><rt>ねん</rt></ruby>を<ruby><rb>単位</rb><rt>たんい</rt></ruby>として<ruby><rb>数</rb><rt>かぞ</rt></ruby>える<ruby><rb>年代</rb><rt>ねんだい</rt></ruby>の<ruby><rb>数</rb><rt>かぞ</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>西暦</rb><rt>せいれき</rt></ruby>１<ruby><rb>年</rb><rt>ねん</rt></ruby>から１００<ruby><rb>年</rb><rt>ねん</rt></ruby>までを<ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>と<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶ。<ruby><rb>２１世紀</rb><rt>にじゅういっせいき</rt></ruby>は２００１<ruby><rb>年</rb><rt>ねん</rt></ruby>から２１００<ruby><rb>年</rb><rt>ねん</rt></ruby>まで。",
+          "hyouki": [
+            "世紀"
+          ]
+        },
+        {
+          "def": "<ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>しかないようなもの。",
+          "hyouki": [
+            "世紀"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>森林</rb><rt>しんりん</rt></ruby>や<ruby><rb>山野</rb><rt>さんや</rt></ruby>にすむ、<ruby><rb>草食</rb><rt>そうしょく</rt></ruby>のおとなしいけもの。<ruby><rb>足</rb><rt>あし</rt></ruby>は<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>く、<ruby><rb>雄</rb><rt>おす</rt></ruby>は<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>枝</rb><rt>えだ</rt></ruby>のような<ruby><rb>角</rb><rt>つの</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ。<ruby><rb>世界各地</rb><rt>せかいかくち</rt></ruby>にいる。",
+          "hyouki": [
+            "鹿"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>水辺</rb><rt>みずべ</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らす<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>渡</rb><rt>わた</rt></ruby>り<ruby><rb>鳥</rb><rt>どり</rt></ruby>。<ruby><rb>首</rb><rt>くび</rt></ruby>と<ruby><rb>足</rb><rt>あし</rt></ruby>とくちばしが<ruby><rb>長</rb><rt>なが</rt></ruby>い。<ruby><rb>昔</rb><rt>むかし</rt></ruby>から、めでたい<ruby><rb>鳥</rb><rt>とり</rt></ruby>として<ruby><rb>知</rb><rt>し</rt></ruby>られている。",
+          "hyouki": [
+            "鶴"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>を<ruby><rb>仕事</rb><rt>しごと</rt></ruby>としている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>音楽家</rb><rt>おんがくか</rt></ruby>や<ruby><rb>画家</rb><rt>がか</rt></ruby>など。",
+          "hyouki": [
+            "芸術家"
+          ]
+        }
+      ]
+    }
+  }
+}
