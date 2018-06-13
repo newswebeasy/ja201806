@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011473441000/k10011473441000.html",
+      "title": "イタリア アフリカからの難民などが乗る船を港に入れない",
+      "time": "NEWSWEB EASY 6月12日",
+      "datetime": "2018-06-12"
+    }
+  ],
   "word": [
     {
       "link": "word/0000563.html",

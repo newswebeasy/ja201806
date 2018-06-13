@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011472631000/k10011472631000.html",
+      "title": "沖縄県「はしかの流行が終わった」",
+      "time": "NEWSWEB EASY 6月12日",
+      "datetime": "2018-06-12"
+    }
+  ],
   "word": [],
   "news_id": "k10011472631000",
   "yyyy": "2018",
