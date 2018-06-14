@@ -1,0 +1,70 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>をためること。また、ためたお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "貯金"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>で<ruby><rb>少</rb><rt>すこ</rt></ruby>しずつお<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てておき、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>や<ruby><rb>事故</rb><rt>じこ</rt></ruby>などの<ruby><rb>災難</rb><rt>さいなん</rt></ruby>にあった<ruby><rb>人</rb><rt>ひと</rt></ruby>が、<ruby><rb>決</rb><rt>き</rt></ruby>まったお<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>取</rb><rt>と</rt></ruby>る<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。",
+          "hyouki": [
+            "保険"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "（<ruby><rb>物</rb><rt>もの</rt></ruby>の）すみ。",
+          "hyouki": [
+            "コーナー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>競走</rb><rt>きょうそう</rt></ruby>のコースで、<ruby><rb>曲</rb><rt>ま</rt></ruby>がり<ruby><rb>角</rb><rt>かど</rt></ruby>。",
+          "hyouki": [
+            "コーナー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、ホームベースの<ruby><rb>角</rb><rt>かど</rt></ruby>。",
+          "hyouki": [
+            "コーナー"
+          ]
+        },
+        {
+          "def": "ボクシングなどで、<ruby><rb>四角</rb><rt>しかく</rt></ruby>いリングのすみ。",
+          "hyouki": [
+            "コーナー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>展示</rb><rt>てんじ</rt></ruby>したりするために、<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "コーナー"
+          ]
+        }
+      ]
+    }
+  }
+}

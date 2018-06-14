@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011475911000",
+  "news_prearranged_time": "2018-06-14 11:30:00",
+  "title": "アメリカ　コンピューターのゲームの展示会が始まる",
+  "title_with_ruby": "アメリカ　コンピューターのゲームの<ruby>展示<rt>てんじ</rt></ruby><ruby>会<rt>かい</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる",
+  "outline_with_ruby": "<p>コンピューターの<a href='javascript:void(0)' class='dicWin' id='id-0000'>ゲーム</a>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>展示<rt>てんじ</rt></ruby></a><ruby>会<rt>かい</rt></ruby>がアメリカのロサンゼルスで<ruby>始<rt>はじ</rt></ruby>まりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180613/../20180613/K10011475911_1806130618_1806130631_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011475911000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011475911000/k10011475911000.html"
+}
