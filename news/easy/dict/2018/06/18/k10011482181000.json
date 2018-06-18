@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>残</rb><rt>のこ</rt></ruby>ったしるし。",
+          "hyouki": [
+            "跡"
+          ]
+        },
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>に<ruby><rb>何</rb><rt>なに</rt></ruby>かがあった<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "跡"
+          ]
+        },
+        {
+          "def": "ゆくえ。",
+          "hyouki": [
+            "跡"
+          ]
+        },
+        {
+          "def": "<ruby><rb>親</rb><rt>おや</rt></ruby>などが、<ruby><rb>残</rb><rt>のこ</rt></ruby>したもの。",
+          "hyouki": [
+            "跡"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に。思いがけなく。",
+          "hyouki": [
+            "突然"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>のおもな<ruby><rb>都市</rb><rt>とし</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで、<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶための<ruby><rb>高速鉄道</rb><rt>こうそくてつどう</rt></ruby>。<ruby><rb>東海道新幹線</rb><rt>とうかいどうしんかんせん</rt></ruby>、<ruby><rb>山陽新幹線</rb><rt>さんようしんかんせん</rt></ruby>、<ruby><rb>上越新幹線</rb><rt>じょうえつしんかんせん</rt></ruby>、<ruby><rb>長野新幹線</rb><rt>ながのしんかんせん</rt></ruby>、<ruby><rb>東北新幹線</rb><rt>とうほくしんかんせん</rt></ruby>、<ruby><rb>山形新幹線</rb><rt>やまがたしんかんせん</rt></ruby>、<ruby><rb>秋田新幹線</rb><rt>あきたしんかんせん</rt></ruby>、<ruby><rb>九州新幹線</rb><rt>きゅうしゅうしんかんせん</rt></ruby>がある。",
+          "hyouki": [
+            "新幹線"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>す<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>。",
+          "hyouki": [
+            "電線"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>雨</rb><rt>あめ</rt></ruby>などを<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために、<ruby><rb>家</rb><rt>いえ</rt></ruby>をおおうもの。",
+          "hyouki": [
+            "屋根"
+          ]
+        },
+        {
+          "def": "<ruby><rb>上</rb><rt>うえ</rt></ruby>をおおうもの。",
+          "hyouki": [
+            "屋根"
+          ]
+        },
+        {
+          "def": "いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "屋根"
+          ]
+        }
+      ]
+    }
+  }
+}

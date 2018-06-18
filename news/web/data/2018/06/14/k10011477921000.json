@@ -32,7 +32,20 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "//www3.nhk.or.jp/news/web_tokushu/2018_0519.html",
+      "title": "ジブリパーク誕生へ どんな施設 なぜ愛知に",
+      "time": "WEB特集 5月19日",
+      "datetime": "2018-05-19"
+    },
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011477921000/k10011477921000.html",
+      "title": "東京ディズニーシーを広くする 「アナと雪の女王」がテーマ",
+      "time": "NEWSWEB EASY 6月18日",
+      "datetime": "2018-06-18"
+    }
+  ],
   "word": [],
   "news_id": "k10011477921000",
   "yyyy": "2018",
