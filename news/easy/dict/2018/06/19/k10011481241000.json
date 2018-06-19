@@ -1,0 +1,122 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>赤</rb><rt>あか</rt></ruby>と<ruby><rb>青</rb><rt>あお</rt></ruby>の<ruby><rb>混</rb><rt>ま</rt></ruby>じった<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "紫"
+          ]
+        },
+        {
+          "def": "<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>小花</rb><rt>こばな</rt></ruby>をつける<ruby><rb>草</rb><rt>くさ</rt></ruby>。<ruby><rb>根</rb><rt>ね</rt></ruby>からむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>染料</rb><rt>せんりょう</rt></ruby>をとる。",
+          "hyouki": [
+            "紫"
+          ]
+        },
+        {
+          "def": "「しょうゆ」の<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "紫"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。",
+          "hyouki": [
+            "避難"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "マウスなどの<ruby><rb>入力装置</rb><rt>にゅうりょくそうち</rt></ruby>のボタンをおすこと。二<ruby><rb>回</rb><rt>かい</rt></ruby><ruby><rb>続</rb><rt>つづ</rt></ruby>けておすことをダブルクリックという。",
+          "hyouki": [
+            "クリック"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>色合</rb><rt>いろあ</rt></ruby>いや<ruby><rb>味</rb><rt>あじ</rt></ruby>などが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。",
+          "hyouki": [
+            "濃い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中</rb><rt>なか</rt></ruby>にふくまれているものの、<ruby><rb>度合</rb><rt>どあ</rt></ruby>いが<ruby><rb>高</rb><rt>たか</rt></ruby>い。",
+          "hyouki": [
+            "濃い"
+          ]
+        },
+        {
+          "def": "びっしりとすき<ruby><rb>間</rb><rt>ま</rt></ruby>がない。",
+          "hyouki": [
+            "濃い"
+          ]
+        },
+        {
+          "def": "そのような<ruby><rb>感</rb><rt>かん</rt></ruby>じが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。",
+          "hyouki": [
+            "濃い"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "うすい<ruby><rb>青色</rb><rt>あおいろ</rt></ruby>。<ruby><rb>空色</rb><rt>そらいろ</rt></ruby>。",
+          "hyouki": [
+            "水色"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>に<ruby><rb>従</rb><rt>したが</rt></ruby>ってすること。また、その<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。",
+          "hyouki": [
+            "順番"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "いっぱいになって、こぼれる。",
+          "hyouki": [
+            "あふれる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。",
+          "hyouki": [
+            "あふれる"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>川</rb><rt>かわ</rt></ruby>や<ruby><rb>海</rb><rt>うみ</rt></ruby>があふれないように、<ruby><rb>川岸</rb><rt>かわぎし</rt></ruby>や<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>に、<ruby><rb>石</rb><rt>いし</rt></ruby>やコンクリートなどで<ruby><rb>築</rb><rt>きず</rt></ruby>いたもの。つつみ。<ruby><rb>土手</rb><rt>どて</rt></ruby>。",
+          "hyouki": [
+            "堤防"
+          ]
+        }
+      ]
+    }
+  }
+}

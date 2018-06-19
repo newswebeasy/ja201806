@@ -1,0 +1,72 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "かたまり。",
+          "hyouki": [
+            "ブロック"
+          ]
+        },
+        {
+          "def": "コンクリートを<ruby><rb>四角</rb><rt>しかく</rt></ruby>にかためたもの。",
+          "hyouki": [
+            "ブロック"
+          ]
+        },
+        {
+          "def": "<ruby><rb>土地</rb><rt>とち</rt></ruby>や<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>のひと<ruby><rb>区切</rb><rt>くぎ</rt></ruby>り。",
+          "hyouki": [
+            "ブロック"
+          ]
+        },
+        {
+          "def": "スポーツで、<ruby><rb>相手</rb><rt>あいて</rt></ruby>の<ruby><rb>攻撃</rb><rt>こうげき</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>いだり、じゃましたりすること。",
+          "hyouki": [
+            "ブロック"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りや、<ruby><rb>敷地</rb><rt>しきち</rt></ruby>などの<ruby><rb>境</rb><rt>さかい</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>てる、<ruby><rb>仕切</rb><rt>しき</rt></ruby>り。",
+          "hyouki": [
+            "塀"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。",
+          "hyouki": [
+            "違反"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>市</rb><rt>し</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>し、その<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとり<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "市長"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>訳</rb><rt>わけ</rt></ruby>ができない。<ruby><rb>大変</rb><rt>たいへん</rt></ruby>すまない。",
+          "hyouki": [
+            "申し訳ない"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>けてしなければならない<ruby><rb>務</rb><rt>つと</rt></ruby>め。",
+          "hyouki": [
+            "責任"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>時間</rb><rt>じかん</rt></ruby>のあと、<ruby><rb>残</rb><rt>のこ</rt></ruby>って<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をすること。",
+          "hyouki": [
+            "残業"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。",
+          "hyouki": [
+            "減る"
+          ]
+        },
+        {
+          "def": "すく。",
+          "hyouki": [
+            "減る"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>給料</rb><rt>きゅうりょう</rt></ruby>のほかに、<ruby><rb>夏</rb><rt>なつ</rt></ruby>と<ruby><rb>年末</rb><rt>ねんまつ</rt></ruby>などに<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>にもらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>賞与</rb><rt>しょうよ</rt></ruby>。",
+          "hyouki": [
+            "ボーナス"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。",
+          "hyouki": [
+            "社員"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。",
+          "hyouki": [
+            "方法"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。",
+          "hyouki": [
+            "減る"
+          ]
+        },
+        {
+          "def": "すく。",
+          "hyouki": [
+            "減る"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>一年</rb><rt>いちねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう４<ruby><rb>月</rb><rt>がつ</rt></ruby><ruby><rb>１日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の３<ruby><rb>月</rb><rt>がつ</rt></ruby>３１<ruby><rb>日</rb><rt>にち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。",
+          "hyouki": [
+            "年度"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。",
+          "hyouki": [
+            "給料"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>別々</rb><rt>べつべつ</rt></ruby>にする。はなす。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>配</rb><rt>くば</rt></ruby>る。<ruby><rb>分配</rb><rt>ぶんぱい</rt></ruby>する。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>に、おし<ruby><rb>開</rb><rt>ひら</rt></ruby>く。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>分</rb><rt>わ</rt></ruby>けにする。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる。",
+          "hyouki": [
+            "分ける"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>や、お<ruby><rb>骨</rb><rt>こつ</rt></ruby>をうめる<ruby><rb>所</rb><rt>ところ</rt></ruby>。また、そのしるし。",
+          "hyouki": [
+            "墓"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>想像</rb><rt>そうぞう</rt></ruby>して、<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にえがき<ruby><rb>出</rb><rt>だ</rt></ruby>す、ものの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>姿</rb><rt>すがた</rt></ruby>。",
+          "hyouki": [
+            "イメージ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。<ruby><rb>文学</rb><rt>ぶんがく</rt></ruby>・<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>・<ruby><rb>美術</rb><rt>びじゅつ</rt></ruby>などで、<ruby><rb>作者</rb><rt>さくしゃ</rt></ruby>が<ruby><rb>創造</rb><rt>そうぞう</rt></ruby>したもの。",
+          "hyouki": [
+            "作品"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "その<ruby><rb>土地</rb><rt>とち</rt></ruby>で<ruby><rb>生</rb><rt>う</rt></ruby>まれたこと。",
+          "hyouki": [
+            "出身"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>学校</rb><rt>がっこう</rt></ruby>を<ruby><rb>卒業</rb><rt>そつぎょう</rt></ruby>したこと。",
+          "hyouki": [
+            "出身"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>を<ruby><rb>仕事</rb><rt>しごと</rt></ruby>としている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>音楽家</rb><rt>おんがくか</rt></ruby>や<ruby><rb>画家</rb><rt>がか</rt></ruby>など。",
+          "hyouki": [
+            "芸術家"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>って、イネを<ruby><rb>育</rb><rt>そだ</rt></ruby>てる<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>水田</rb><rt>すいでん</rt></ruby>。",
+          "hyouki": [
+            "田んぼ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ガソリンなどを<ruby><rb>入</rb><rt>い</rt></ruby>れる、<ruby><rb>鉄</rb><rt>てつ</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>筒形</rb><rt>つつがた</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>缶</rb><rt>かん</rt></ruby>。",
+          "hyouki": [
+            "ドラム缶"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>重</rb><rt>かさ</rt></ruby>ねる。",
+          "hyouki": [
+            "積む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>をのせる。",
+          "hyouki": [
+            "積む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じことをくり<ruby><rb>返</rb><rt>かえ</rt></ruby>す。",
+          "hyouki": [
+            "積む"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>をためる。",
+          "hyouki": [
+            "積む"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>る、<ruby><rb>黒</rb><rt>くろ</rt></ruby>くどろどろした<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい<ruby><rb>油</rb><rt>あぶら</rt></ruby>。<ruby><rb>大昔</rb><rt>おおむかし</rt></ruby>の<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>が<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>にうまってできたもの。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>からとったままのものを<ruby><rb>原油</rb><rt>げんゆ</rt></ruby>といい、ガソリン・<ruby><rb>軽油</rb><rt>けいゆ</rt></ruby>・<ruby><rb>灯油</rb><rt>とうゆ</rt></ruby>・<ruby><rb>重油</rb><rt>じゅうゆ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る。<ruby><rb>化学工業</rb><rt>かがくこうぎょう</rt></ruby>の<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>としても<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "石油"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」から<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>燃料</rb><rt>ねんりょう</rt></ruby>やじゅんかつ<ruby><rb>油</rb><rt>ゆ</rt></ruby>などの<ruby><rb>製品</rb><rt>せいひん</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>灯油</rb><rt>とうゆ</rt></ruby>のこと。",
+          "hyouki": [
+            "石油"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>・<ruby><rb>雲</rb><rt>くも</rt></ruby>・<ruby><rb>雨</rb><rt>あめ</rt></ruby>・<ruby><rb>雪</rb><rt>ゆき</rt></ruby>など、<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>ったものでない<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "もともとの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>えていること。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "わざとらしくないようす。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "ひとりでに。いつのまにか。",
+          "hyouki": [
+            "自然"
+          ]
+        }
+      ]
+    }
+  }
+}

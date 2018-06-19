@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011481241000",
+  "news_prearranged_time": "2018-06-19 11:30:00",
+  "title": "「川の危険を知らせる色が薄い紫になったら避難を考えて」",
+  "title_with_ruby": "「<ruby>川<rt>かわ</rt></ruby>の<ruby>危険<rt>きけん</rt></ruby>を<ruby>知<rt>し</rt></ruby>らせる<ruby>色<rt>いろ</rt></ruby>が<ruby>薄<rt>うす</rt></ruby>い<ruby>紫<rt>むらさき</rt></ruby>になったら<ruby>避難<rt>ひなん</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えて」",
+  "outline_with_ruby": "<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'>ウェブサイト</a>の<ruby>右側<rt>みぎがわ</rt></ruby>にある「この<ruby>雨<rt>あめ</rt></ruby><ruby>大丈夫<rt>だいじょうぶ</rt></ruby>？そんな<ruby>時<rt>とき</rt></ruby>　<ruby>危険度<rt>きけんど</rt></ruby><ruby>分布<rt>ぶんぷ</rt></ruby>」を<a href='javascript:void(0)' class='dicWin' id='id-0003'>クリック</a>すると、<ruby>川<rt>かわ</rt></ruby>に<ruby>色<rt>いろ</rt></ruby>がついている<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>地図<rt>ちず</rt></ruby>が<ruby>出<rt>で</rt></ruby>てきます。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180617/../20180617/K10011481241_1806170803_1806170807_01_03.jpg",
+  "news_web_movie_uri": "k10011481241_201806170803_201806170807.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011481241000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011481241000/k10011481241000.html"
+}
