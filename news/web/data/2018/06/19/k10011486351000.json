@@ -1,0 +1,71 @@
+{
+  "cate": "7",
+  "date": "6æ19æ¥ 21æ03å",
+  "datetime": "2018-06-19T21:03",
+  "video": "",
+  "duration": 0,
+  "img": "html/20180619/K10011486351_1806192133_1806192134_01_02.jpg",
+  "title": "サッカーＷ杯 日本 対 コロンビア 試合開始",
+  "summary": "サッカーワールドカップ ロシア大会の１次リーグの日本の初戦、コロンビア戦は、日本時間の午後９時すぎに、日本のキックオフで始まりました。",
+  "more": "",
+  "body": [],
+  "relationNews": [
+    {
+      "link": "html/20180619/k10011486291000.html",
+      "title": "サッカー日本代表 ピッチでの練習始まる",
+      "date": "6月19日  20時30分",
+      "datetime": "2018-06-19T20:30",
+      "imgPath": "",
+      "iconPath": "",
+      "video": "",
+      "duration": 0
+    },
+    {
+      "link": "html/20180619/k10011486221000.html",
+      "title": "サッカー日本代表 初戦の先発メンバーに香川ら",
+      "date": "6月19日  20時12分",
+      "datetime": "2018-06-19T20:12",
+      "imgPath": "//www3r.nhk.or.jp/news/r/html/20180619/K10011486221_1806192014_1806192014_01_02.jpg",
+      "iconPath": "//www3r.nhk.or.jp/news/r/html/20180619/K10011486221_1806192014_1806192014_02_01.jpg",
+      "video": "",
+      "duration": 0
+    }
+  ],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/special/2018fifaworldcup/",
+      "title": "2018 FIFA ワールドカップ ニュースまとめ",
+      "time": "スペシャルコンテンツ",
+      "datetime": ""
+    },
+    {
+      "link": "http://www1.nhk.or.jp/sports/2018fifaworldcup/index.html",
+      "title": "2018 ＦＩＦＡ ワールドカップ",
+      "time": "ＮＨＫスポーツオンライン",
+      "datetime": ""
+    }
+  ],
+  "word": [
+    {
+      "link": "word/0000605.html",
+      "title": "サッカーＷ杯"
+    },
+    {
+      "link": "word/0000607.html",
+      "title": "サッカー日本代表"
+    },
+    {
+      "link": "word/0000615.html",
+      "title": "グループＨ"
+    },
+    {
+      "link": "word/0000606.html",
+      "title": "サッカーＷ杯トップ"
+    }
+  ],
+  "news_id": "k10011486351000",
+  "yyyy": "2018",
+  "mm": "06",
+  "dd": "19",
+  "url": "https://www3.nhk.or.jp/news/html/20180619/k10011486351000.html"
+}
