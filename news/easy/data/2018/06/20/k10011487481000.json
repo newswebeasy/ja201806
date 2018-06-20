@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011487481000",
+  "news_prearranged_time": "2018-06-20 16:10:00",
+  "title": "地震があった大阪府高槻市でボランティアの受け付け",
+  "title_with_ruby": "<ruby>地震<rt>じしん</rt></ruby>があった<ruby>大阪府<rt>おおさかふ</rt></ruby><ruby>高槻市<rt>たかつきし</rt></ruby>でボランティアの<ruby>受<rt>う</rt></ruby>け<ruby>付<rt>つ</rt></ruby>け",
+  "outline_with_ruby": "<p>１８<ruby>日<rt>にち</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>があった<ruby>大阪府<rt>おおさかふ</rt></ruby><ruby>高槻市<rt>たかつきし</rt></ruby>で、<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>被害<rt>ひがい</rt></ruby></a>があった<ruby>家<rt>いえ</rt></ruby>の<ruby>片<rt>かた</rt></ruby>づけなどを<ruby>手伝<rt>てつだ</rt></ruby>う<a href='javascript:void(0)' class='dicWin' id='id-0000'>ボランティア</a>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>受<rt>う</rt></ruby>け<ruby>付<rt>つ</rt></ruby>け</a>が<ruby>２０日<rt>はつか</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180620/../20180620/K10011487481_1806201242_1806201306_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011487481000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011487481000/k10011487481000.html"
+}

@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011486521000",
+  "news_prearranged_time": "2018-06-20 16:10:00",
+  "title": "サッカーのワールドカップ　日本がコロンビアに勝つ",
+  "title_with_ruby": "サッカーのワールドカップ　<ruby>日本<rt>にっぽん</rt></ruby>がコロンビアに<ruby>勝<rt>か</rt></ruby>つ",
+  "outline_with_ruby": "<p>ロシアで<ruby>行<rt>おこな</rt></ruby>っている<a href='javascript:void(0)' class='dicWin' id='id-0000'>サッカー</a>の<a href='javascript:void(0)' class='dicWin' id='id-0001'>ワールドカップ</a>で１９<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>がありました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": true,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180619///www3r.nhk.or.jp/news/r/html/20180619/K10011486521_1806192324_1806192326_01_03.jpg",
+  "news_web_movie_uri": "k10011486521_201806192325_201806192325.mp4",
+  "news_easy_image_uri": "k10011486521000.jpg",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011486521000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011486521000/k10011486521000.html"
+}
