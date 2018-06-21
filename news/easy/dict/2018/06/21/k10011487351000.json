@@ -1,0 +1,112 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "１１<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの<ruby><rb>二</rb><rt>に</rt></ruby>チームが、<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、ボールを<ruby><rb>相手</rb><rt>あいて</rt></ruby>のゴールにけりこんで<ruby><rb>得点</rb><rt>とくてん</rt></ruby>をきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。フットボール。",
+          "hyouki": [
+            "サッカー"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。",
+          "hyouki": [
+            "ワールドカップ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>競走</rb><rt>きょうそう</rt></ruby>で、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>決勝点</rb><rt>けっしょうてん</rt></ruby>。",
+          "hyouki": [
+            "ゴール"
+          ]
+        },
+        {
+          "def": "バスケットボール・サッカーなどで、ボールを<ruby><rb>入</rb><rt>い</rt></ruby>れると<ruby><rb>点</rb><rt>てん</rt></ruby>になる<ruby><rb>所</rb><rt>ところ</rt></ruby>。また、そこにボールを<ruby><rb>入</rb><rt>い</rt></ruby>れること。",
+          "hyouki": [
+            "ゴール"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>の<ruby><rb>最後</rb><rt>さいご</rt></ruby>の<ruby><rb>点</rb><rt>てん</rt></ruby>。",
+          "hyouki": [
+            "ゴール"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>行</rb><rt>い</rt></ruby>きわたる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "広がる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>糸</rb><rt>いと</rt></ruby>で<ruby><rb>織</rb><rt>お</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>織物</rb><rt>おりもの</rt></ruby>。きれ。",
+          "hyouki": [
+            "布"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>途中</rb><rt>とちゅう</rt></ruby>までしかできあがっていないこと。",
+          "hyouki": [
+            "中途半端"
+          ]
+        },
+        {
+          "def": "やり<ruby><rb>方</rb><rt>かた</rt></ruby>がどっちつかずであること。",
+          "hyouki": [
+            "中途半端"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        }
+      ]
+    }
+  }
+}
