@@ -1,0 +1,82 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>九人</rb><rt>くにん</rt></ruby>ずつの<ruby><rb>二</rb><rt>に</rt></ruby>チームが、たがいにバットでボールを<ruby><rb>打</rb><rt>う</rt></ruby>ってせめ<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ベースボール。",
+          "hyouki": [
+            "野球"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>本塁</rb><rt>ほんるい</rt></ruby>にいて、ピッチャーの<ruby><rb>投</rb><rt>な</rt></ruby>げたボールを<ruby><rb>受</rb><rt>う</rt></ruby>ける<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>捕手</rb><rt>ほしゅ</rt></ruby>。",
+          "hyouki": [
+            "キャッチャー"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、ボールを<ruby><rb>打</rb><rt>う</rt></ruby>つ<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>打者</rb><rt>だしゃ</rt></ruby>。",
+          "hyouki": [
+            "バッター"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "めざましく<ruby><rb>働</rb><rt>はたら</rt></ruby>くこと。",
+          "hyouki": [
+            "活躍"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        },
+        {
+          "def": "「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ことがらについて<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>述</rb><rt>の</rt></ruby>べること。また、その<ruby><rb>意見</rb><rt>いけん</rt></ruby>。<ruby><rb>見解</rb><rt>けんかい</rt></ruby>。<ruby><rb>解説</rb><rt>かいせつ</rt></ruby>。",
+          "hyouki": [
+            "コメント"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>何</rb><rt>なに</rt></ruby>かの<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>かれている。<ruby><rb>積</rb><rt>つ</rt></ruby>んである。",
+          "hyouki": [
+            "載る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や、<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などに<ruby><rb>書</rb><rt>か</rt></ruby>かれる。",
+          "hyouki": [
+            "載る"
+          ]
+        }
+      ]
+    }
+  }
+}

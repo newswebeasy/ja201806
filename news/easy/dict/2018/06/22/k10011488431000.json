@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ななめになる。",
+          "hyouki": [
+            "傾く"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>などが）ある<ruby><rb>方</rb><rt>ほう</rt></ruby>へ<ruby><rb>寄</rb><rt>よ</rt></ruby>る。",
+          "hyouki": [
+            "傾く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>日</rb><rt>ひ</rt></ruby>や<ruby><rb>月</rb><rt>つき</rt></ruby>が、<ruby><rb>西</rb><rt>にし</rt></ruby>にしずもうとする。",
+          "hyouki": [
+            "傾く"
+          ]
+        },
+        {
+          "def": "おとろえる。",
+          "hyouki": [
+            "傾く"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>大名</rb><rt>だいみょう</rt></ruby>などが、<ruby><rb>敵</rb><rt>てき</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>大</rb><rt>おお</rt></ruby>がかりな<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "城"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>古</rb><rt>ふる</rt></ruby>くなった<ruby><rb>建物</rb><rt>たてもの</rt></ruby>を、<ruby><rb>造</rb><rt>つく</rt></ruby>り<ruby><rb>直</rb><rt>なお</rt></ruby>す。",
+          "hyouki": [
+            "建て直す"
+          ]
+        },
+        {
+          "def": "つぶれかかった<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>などを、もとどおりにする。<ruby><rb>再建</rb><rt>さいけん</rt></ruby>する。",
+          "hyouki": [
+            "建て直す"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>石</rb><rt>いし</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>み<ruby><rb>重</rb><rt>かさ</rt></ruby>ねてかべのようにしたもの。",
+          "hyouki": [
+            "石垣"
+          ]
+        },
+        {
+          "def": "<ruby><rb>石</rb><rt>いし</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>んで<ruby><rb>作</rb><rt>つく</rt></ruby>ったへい。",
+          "hyouki": [
+            "石垣"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>い。<ruby><rb>平均</rb><rt>へいきん</rt></ruby>。",
+          "hyouki": [
+            "バランス"
+          ]
+        }
+      ]
+    }
+  }
+}
