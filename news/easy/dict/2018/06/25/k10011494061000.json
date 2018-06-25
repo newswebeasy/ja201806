@@ -1,0 +1,50 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>京都</rb><rt>きょうと</rt></ruby>・<ruby><rb>大阪</rb><rt>おおさか</rt></ruby>・<ruby><rb>神戸</rb><rt>こうべ</rt></ruby>・<ruby><rb>奈良</rb><rt>なら</rt></ruby>などの<ruby><rb>地方</rb><rt>ちほう</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>すことば。",
+          "hyouki": [
+            "関西"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "こわれているところを<ruby><rb>直</rb><rt>なお</rt></ruby>すこと。<ruby><rb>修繕</rb><rt>しゅうぜん</rt></ruby>。",
+          "hyouki": [
+            "修理"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>夏</rb><rt>なつ</rt></ruby>の<ruby><rb>暑</rb><rt>あつ</rt></ruby>さなどで、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>体内</rb><rt>たいない</rt></ruby>にたまって<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。ひどい<ruby><rb>頭痛</rb><rt>ずつう</rt></ruby>がしたり、<ruby><rb>気</rb><rt>き</rt></ruby>を<ruby><rb>失</rb><rt>うしな</rt></ruby>ったりする。",
+          "hyouki": [
+            "熱中症"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>のうち、１９４１<ruby><rb>年</rb><rt>ねん</rt></ruby>から１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>まで、<ruby><rb>太平洋地域</rb><rt>たいへいようちいき</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われた<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>と、アメリカ・イギリスなどの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>との<ruby><rb>戦</rb><rt>たたか</rt></ruby>いで、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>が<ruby><rb>敗</rb><rt>やぶ</rt></ruby>れて<ruby><rb>終</rb><rt>お</rt></ruby>わった。",
+          "hyouki": [
+            "太平洋戦争"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。",
+          "hyouki": [
+            "激しい"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>程度</rb><rt>ていど</rt></ruby>がきつい。",
+          "hyouki": [
+            "激しい"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>うこと。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。<ruby><rb>争</rb><rt>あらそ</rt></ruby>い。",
+          "hyouki": [
+            "戦い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "戦い"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "知事"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。",
+          "hyouki": [
+            "平和"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。",
+          "hyouki": [
+            "平和"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ものごとをおし<ruby><rb>進</rb><rt>すす</rt></ruby>めるときの、よりどころとする<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "基地"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "移す"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>進</rb><rt>すす</rt></ruby>める。",
+          "hyouki": [
+            "移す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感染</rb><rt>かんせん</rt></ruby>させる。",
+          "hyouki": [
+            "移す"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>事件</rb><rt>じけん</rt></ruby>や<ruby><rb>問題</rb><rt>もんだい</rt></ruby>がうまくかたづくこと。",
+          "hyouki": [
+            "解決"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。",
+          "hyouki": [
+            "方法"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>感</rb><rt>かん</rt></ruby>じたことなどを、<ruby><rb>選</rb><rt>えら</rt></ruby>びぬかれたことばで<ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。うた。",
+          "hyouki": [
+            "詩"
+          ]
+        }
+      ]
+    }
+  }
+}

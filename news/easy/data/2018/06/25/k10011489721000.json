@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011489721000",
+  "news_prearranged_time": "2018-06-25 11:30:00",
+  "title": "コンピューターを使った映像の美術館が東京にできる",
+  "title_with_ruby": "コンピューターを<ruby>使<rt>つか</rt></ruby>った<ruby>映像<rt>えいぞう</rt></ruby>の<ruby>美術館<rt>びじゅつかん</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>にできる",
+  "outline_with_ruby": "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>台場<rt>だいば</rt></ruby>に２１<ruby>日<rt>にち</rt></ruby>、コンピューターを<ruby>使<rt>つか</rt></ruby>った<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>映像<rt>えいぞう</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>作品<rt>さくひん</rt></ruby></a>を<ruby>見<rt>み</rt></ruby>せる<ruby>美術館<rt>びじゅつかん</rt></ruby>ができました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180621/../20180621/K10011489721_1806211852_1806211957_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011489721000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011489721000/k10011489721000.html"
+}

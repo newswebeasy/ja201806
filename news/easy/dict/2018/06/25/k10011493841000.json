@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、ある<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "地方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>首都</rb><rt>しゅと</rt></ruby>でない<ruby><rb>土地</rb><rt>とち</rt></ruby>。いなか。",
+          "hyouki": [
+            "地方"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ゆでてつぶしたジャガイモなどに、タマネギ・ひき<ruby><rb>肉</rb><rt>にく</rt></ruby>などを<ruby><rb>混</rb><rt>ま</rt></ruby>ぜ、パン<ruby><rb>粉</rb><rt>こ</rt></ruby>をつけて<ruby><rb>油</rb><rt>あぶら</rt></ruby>であげた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "コロッケ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "しんさや<ruby><rb>投票</rb><rt>とうひょう</rt></ruby>で、どれがすぐれているかを<ruby><rb>競</rb><rt>きそ</rt></ruby>う<ruby><rb>会</rb><rt>かい</rt></ruby>。コンクール。",
+          "hyouki": [
+            "コンテスト"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "かたいこうらでおおわれた<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむタカアシガニ・ケガニや、<ruby><rb>谷川</rb><rt>たにがわ</rt></ruby>にすむサワガニなどがいる。<ruby><rb>足</rb><rt>あし</rt></ruby>が１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>あり、そのうちの２<ruby><rb>本</rb><rt>ほん</rt></ruby>がはさみになっている。",
+          "hyouki": [
+            "蟹"
+          ]
+        }
+      ]
+    }
+  }
+}

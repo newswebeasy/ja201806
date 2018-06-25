@@ -1,0 +1,88 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>打楽器</rb><rt>だがっき</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>胴</rb><rt>どう</rt></ruby>に<ruby><rb>皮</rb><rt>かわ</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>り、ばちで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>鳴</rb><rt>な</rt></ruby>らすもの。",
+          "hyouki": [
+            "太鼓"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>楽器</rb><rt>がっき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>をかなでること。",
+          "hyouki": [
+            "演奏"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "まげる。まがる。",
+          "hyouki": [
+            "曲"
+          ]
+        },
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>のメロディー。",
+          "hyouki": [
+            "曲"
+          ]
+        },
+        {
+          "def": "<ruby><rb>軽</rb><rt>かる</rt></ruby>わざ。",
+          "hyouki": [
+            "曲"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>米</rb><rt>こめ</rt></ruby>から<ruby><rb>造</rb><rt>つく</rt></ruby>る、<ruby><rb>日本特有</rb><rt>にっぽんとくゆう</rt></ruby>の<ruby><rb>酒</rb><rt>さけ</rt></ruby>。<ruby><rb>清酒</rb><rt>せいしゅ</rt></ruby>。",
+          "hyouki": [
+            "日本酒"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にやってみること。また、やってみたこと。",
+          "hyouki": [
+            "体験"
+          ]
+        }
+      ]
+    }
+  }
+}
