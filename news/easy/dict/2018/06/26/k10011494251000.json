@@ -1,0 +1,50 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>罰</rb><rt>ばつ</rt></ruby>をあたえる。こらしめる。",
+          "hyouki": [
+            "罰する"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>められていること。<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>習慣</rb><rt>しゅうかん</rt></ruby>。",
+          "hyouki": [
+            "決まり"
+          ]
+        },
+        {
+          "def": "しめくくり。おさまり。",
+          "hyouki": [
+            "決まり"
+          ]
+        }
+      ]
+    }
+  }
+}

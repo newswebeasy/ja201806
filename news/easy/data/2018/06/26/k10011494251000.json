@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011494251000",
+  "news_prearranged_time": "2018-06-26 16:35:00",
+  "title": "サウジアラビアで女性が車を運転できるようになる",
+  "title_with_ruby": "サウジアラビアで<ruby>女性<rt>じょせい</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>できるようになる",
+  "outline_with_ruby": "<p>サウジアラビアでは<ruby>女性<rt>じょせい</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>してはいけないことになっていました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180625/../20180625/K10011494251_1806250440_1806250441_01_03.jpg",
+  "news_web_movie_uri": "k10011494251_201806250440_201806250441.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011494251000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011494251000/k10011494251000.html"
+}

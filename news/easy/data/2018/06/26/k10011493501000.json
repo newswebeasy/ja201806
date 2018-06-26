@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011493501000",
+  "news_prearranged_time": "2018-06-26 11:30:00",
+  "title": "Ｗｉ－Ｆｉを利用できるサービスが全部の新幹線で始まる",
+  "title_with_ruby": "Ｗｉ－Ｆｉを<ruby>利用<rt>りよう</rt></ruby>できるサービスが<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まる",
+  "outline_with_ruby": "<p>ＪＲは<ruby>全部<rt>ぜんぶ</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>新幹線<rt>しんかんせん</rt></ruby></a>の<ruby>中<rt>なか</rt></ruby>で、インターネットに<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>無線<rt>むせん</rt></ruby></a>で<a href='javascript:void(0)' class='dicWin' id='id-0003'>つながる</a>Ｗｉ－Ｆｉの<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>無料<rt>むりょう</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0000'>サービス</a>を<ruby>始<rt>はじ</rt></ruby>めます。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180624/../20180624/K10011493501_1806241558_1806241600_01_02.jpg",
+  "news_web_movie_uri": "k10011493501_201806241809_201806241811.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011493501000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011493501000/k10011493501000.html"
+}

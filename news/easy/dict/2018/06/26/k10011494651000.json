@@ -1,0 +1,126 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>関東地方</rb><rt>かんとうちほう</rt></ruby>の<ruby><rb>南部</rb><rt>なんぶ</rt></ruby>にある、<ruby><rb>房総半島</rb><rt>ぼうそうはんとう</rt></ruby>と<ruby><rb>三浦半島</rb><rt>みうらはんとう</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた<ruby><rb>入</rb><rt>い</rt></ruby>り<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "東京湾"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>大形</rb><rt>おおがた</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。シロナガスクジラ・マッコウクジラ・セミクジラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>哺乳類</rb><rt>ほにゅうるい</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>は<ruby><rb>乳</rb><rt>ちち</rt></ruby>を<ruby><rb>飲</rb><rt>の</rt></ruby>んで<ruby><rb>育</rb><rt>そだ</rt></ruby>つ。",
+          "hyouki": [
+            "鯨"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>きているもの。<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>のこと。",
+          "hyouki": [
+            "生き物"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "とび<ruby><rb>上</rb><rt>あ</rt></ruby>がること。",
+          "hyouki": [
+            "ジャンプ"
+          ]
+        },
+        {
+          "def": "スキーや<ruby><rb>陸上競技</rb><rt>りくじょうきょうぎ</rt></ruby>で、とんだ<ruby><rb>距離</rb><rt>きょり</rt></ruby>や<ruby><rb>高</rb><rt>たか</rt></ruby>さをきそう<ruby><rb>種目</rb><rt>しゅもく</rt></ruby>。",
+          "hyouki": [
+            "ジャンプ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>糸</rb><rt>いと</rt></ruby>に<ruby><rb>釣</rb><rt>つ</rt></ruby>り<ruby><rb>針</rb><rt>ばり</rt></ruby>をつけて<ruby><rb>魚</rb><rt>さかな</rt></ruby>をとること。",
+          "hyouki": [
+            "釣り"
+          ]
+        },
+        {
+          "def": "つりせん。おつり。",
+          "hyouki": [
+            "釣り"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ]
+    }
+  }
+}
