@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011495401000",
+  "news_prearranged_time": "2018-06-27 11:30:00",
+  "title": "日本のテレビ番組をミャンマーに紹介するために会社を作る",
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>のテレビ<ruby>番組<rt>ばんぐみ</rt></ruby>をミャンマーに<ruby>紹介<rt>しょうかい</rt></ruby>するために<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る",
+  "outline_with_ruby": "<p>「クールジャパン<ruby>機構<rt>きこう</rt></ruby>」は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>や<ruby>音楽<rt>おんがく</rt></ruby>などを<ruby>外国<rt>がいこく</rt></ruby>に<ruby>輸出<rt>ゆしゅつ</rt></ruby>する<ruby>手伝<rt>てつだ</rt></ruby>いをしています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180625/../20180625/K10011495401_1806252031_1806252034_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011495401000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011495401000/k10011495401000.html"
+}

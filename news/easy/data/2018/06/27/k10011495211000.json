@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011495211000",
+  "news_prearranged_time": "2018-06-27 11:30:00",
+  "title": "東京オリンピック　横浜の港で大きな船をホテルにする",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピック　<ruby>横浜<rt>よこはま</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>をホテルにする",
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'>オリンピック</a>と<a href='javascript:void(0)' class='dicWin' id='id-0001'>パラリンピック</a>があります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180625/../20180625/K10011495211_1806251806_1806251808_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011495211000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011495211000/k10011495211000.html"
+}

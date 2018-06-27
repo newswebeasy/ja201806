@@ -1,0 +1,92 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>をすっかりおおう<ruby><rb>眼鏡</rb><rt>めがね</rt></ruby>。<ruby><rb>登山</rb><rt>とざん</rt></ruby>、スキー、<ruby><rb>水泳</rb><rt>すいえい</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "ゴーグル"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。",
+          "hyouki": [
+            "付ける"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "かいた<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>を、<ruby><rb>動</rb><rt>うご</rt></ruby>きに<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>撮影</rb><rt>さつえい</rt></ruby>し、それを<ruby><rb>映</rb><rt>うつ</rt></ruby>して<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>いているように<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>映画</rb><rt>えいが</rt></ruby>。<ruby><rb>動画</rb><rt>どうが</rt></ruby>。アニメ。",
+          "hyouki": [
+            "アニメーション"
+          ]
+        }
+      ]
+    }
+  }
+}
