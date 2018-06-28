@@ -1,0 +1,138 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。",
+          "hyouki": [
+            "禁止"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>められていること。<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>習慣</rb><rt>しゅうかん</rt></ruby>。",
+          "hyouki": [
+            "決まり"
+          ]
+        },
+        {
+          "def": "しめくくり。おさまり。",
+          "hyouki": [
+            "決まり"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>燃</rb><rt>も</rt></ruby>えるときに<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>気体</rb><rt>きたい</rt></ruby>。けむ。けぶり。",
+          "hyouki": [
+            "煙"
+          ]
+        },
+        {
+          "def": "けむりのように<ruby><rb>見</rb><rt>み</rt></ruby>えるもの。",
+          "hyouki": [
+            "煙"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>をはらって<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "雇う"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>をはらって<ruby><rb>車</rb><rt>くるま</rt></ruby>や<ruby><rb>船</rb><rt>ふね</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>する。",
+          "hyouki": [
+            "雇う"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "知事"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "１チーム１５<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が、<ruby><rb>楕円形</rb><rt>だえんけい</rt></ruby>のボールを、<ruby><rb>持</rb><rt>も</rt></ruby>って<ruby><rb>走</rb><rt>はし</rt></ruby>ったり、けったりして<ruby><rb>相手側</rb><rt>あいてがわ</rt></ruby>のゴールライン<ruby><rb>内</rb><rt>ない</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>得点</rb><rt>とくてん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。",
+          "hyouki": [
+            "ラグビー"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。",
+          "hyouki": [
+            "ワールドカップ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。",
+          "hyouki": [
+            "パラリンピック"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>時間</rb><rt>じかん</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "過ごす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>月日</rb><rt>つきひ</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る。<ruby><rb>暮</rb><rt>く</rt></ruby>らす。",
+          "hyouki": [
+            "過ごす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>程度</rb><rt>ていど</rt></ruby>をこす。",
+          "hyouki": [
+            "過ごす"
+          ]
+        },
+        {
+          "def": "そのままにしておく。",
+          "hyouki": [
+            "過ごす"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。",
+          "hyouki": [
+            "役所"
+          ]
+        }
+      ]
+    }
+  }
+}

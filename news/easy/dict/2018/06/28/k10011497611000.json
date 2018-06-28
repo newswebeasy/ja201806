@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>が<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>専門</rb><rt>せんもん</rt></ruby>の<ruby><rb>力士</rb><rt>りきし</rt></ruby>による<ruby><rb>相撲</rb><rt>すもう</rt></ruby>。",
+          "hyouki": [
+            "大相撲"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相撲</rb><rt>すもう</rt></ruby>で、なかなか<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けの<ruby><rb>決</rb><rt>き</rt></ruby>まらない<ruby><rb>力</rb><rt>ちから</rt></ruby>の<ruby><rb>入</rb><rt>はい</rt></ruby>った<ruby><rb>取組</rb><rt>とりくみ</rt></ruby>。",
+          "hyouki": [
+            "大相撲"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "すもうをとることを<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。すもうとり。",
+          "hyouki": [
+            "力士"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "申し込む"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "検査"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。",
+          "hyouki": [
+            "健康"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。",
+          "hyouki": [
+            "健康"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "申し込む"
+          ]
+        }
+      ]
+    }
+  }
+}
